@@ -1,5 +1,5 @@
 {
-  "name": "omo-svelte-tailwind-ts-starter",
+  "name": "omo-dapp-starter",
   "version": "1.0.0",
   "devDependencies": {
     "cross-env": "^5.2.0",
